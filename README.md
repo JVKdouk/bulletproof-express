@@ -1,4 +1,4 @@
-# Welcome to Bulletproof React
+# Welcome to Bulletproof React ⛨
 Every Node.js developer has read at least 5 to 6 different guides on writing Express applications. How to make it work is not really a problem nowadays. However, have you ever asked yourself what is the **right way** to do it? This repository has the goal of not only answering this question but actively providing the source code for a clean, easy-to-use, reliable and maintainable structure. Below you can find what this boilerplate provides and what we are actively working on:
 
  - [x] Security (HTTP Parameter Pollution, Fingerprint, XSS...)
