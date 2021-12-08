@@ -11,6 +11,7 @@
     "prisma:mg": "npx prisma migrate dev",
     "prisma:dp": "npx prisma migrate deploy",
     "prisma:gen": "npx prisma generate",
+    "test:nowatch": "jest --runInBand",
     "test": "jest --watchAll --runInBand",
     "test:coverage": "jest --watchAll --coverage --runInBand",
     "prepare": "husky install"
