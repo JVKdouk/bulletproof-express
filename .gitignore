@@ -1,0 +1,19 @@
+# Build folder
+dist
+
+# Can be recreated by running "npm i" or "yarn"
+node_modules
+
+# Do not commit secrets
+.env
+.env.production
+.env.development
+.env.testing
+
+# Package manager error logs should not be commited
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# No need to commit coverage
+coverage
